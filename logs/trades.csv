@@ -1,0 +1,1 @@
+timestamp_open,timestamp_close,pair,direction,entry_price,exit_price,gross_pnl,fees,net_pnl,atr_pct_entry,regime_entry,exit_reason,spread_bps,bars_in_trade,entry_score,score_macro,score_micro,regime_30m,trf_state_5m,atr_pct_30m,atr_pct_5m
