@@ -6,7 +6,7 @@
     <img src="https://img.youtube.com/vi/Ke04Dqzy6mM/0.jpg" 
          alt="Demo del PSAR Scalping Bot en Binance Futures">
   </a>
-  <p>Haz clic en la imagen para ver el video de demostración en YouTube.</p>
+  <p>Si gustas ver un  video de como funciona en vivo, puedes picar la imagenn</p>
 </div>
 
 Bot de **scalping multi–par** para Binance Futures (testnet o producción), construido en Python, que combina:
