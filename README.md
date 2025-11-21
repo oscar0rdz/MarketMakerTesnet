@@ -2,13 +2,13 @@
 
 <div align="center">
   <h3>Demo del PSAR Scalping Bot en Binance Futures</h3>
-  <a href="https://www.youtube.com/watch?v=Ke04Dqzy6mM" target="_blank">
+  <a href="https://www.youtube.com/watch?v=Ke04Dqzy6mM">
+    <img src="https://img.youtube.com/vi/Ke04Dqzy6mM/0.jpg" 
+         alt="Demo del PSAR Scalping Bot en Binance Futures">
   </a>
- <iframe width="560" height="315" src="https://www.youtube.com/embed/Ke04Dqzy6mM?si=pgEE-FUSZ6LG_H5R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-  <p>
-    Haz clic en la imagen para ver el video de demostración en YouTube.
-  </p>
+  <p>Haz clic en la imagen para ver el video de demostración en YouTube.</p>
 </div>
+
 Bot de **scalping multi–par** para Binance Futures (testnet o producción), construido en Python, que combina:
 
 - **PSAR en 30m** como cerebro estructural de tendencia.
