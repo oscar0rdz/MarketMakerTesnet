@@ -3,10 +3,8 @@
 <div align="center">
   <h3>Demo del PSAR Scalping Bot en Binance Futures</h3>
   <a href="https://www.youtube.com/watch?v=Ke04Dqzy6mM" target="_blank">
-    
-         alt="PSAR Scalping Bot - Demo en YouTube"
-         style="max-width: 100%; border-radius: 12px;" />
   </a>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/Ke04Dqzy6mM?si=pgEE-FUSZ6LG_H5R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   <p>
     Haz clic en la imagen para ver el video de demostración en YouTube.
   </p>
